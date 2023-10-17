@@ -4,7 +4,7 @@
 > GitHub: 
 
 ------------------------------------------------------
-[Return`MENU`](../READme.md)
+[Return`MENU`](..%2FREADme.md)
 ## 1. PHP là gì?
 Thuật ngữ PHP là từ viết tắt của  `Hypertext Preprocessor` .
 Nó là một ngôn ngữ kịch bản phía máy chủ hướng đối tượng, mã nguồn mở, 
@@ -499,7 +499,7 @@ $float = 3.14;
 $bool = true;
 // String (Chuỗi)
 $string = "Hello, World!";
-// Array (Mảng)
+// Array.md (Mảng)
 $array = [1, 2, 3];
 // Object (Đối tượng)
 class MyClass {

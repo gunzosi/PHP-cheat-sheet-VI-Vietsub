@@ -9,7 +9,7 @@
 7. [Jump Statement](#7-jump-statement---câu-lệnh-nhảy) - Câu lệnh 'Nhảy'
 
 -----------------------------------------------------
-[Return `MENU`](../READme.md)
+[Return `MENU`](..%2FREADme.md)
 ## 1. CONTROL STRUCTURE
 * PHP cho phép người dùng thực hiện các hoạt động dựa trên một số loại điều kiện Logical hoặc là So Sánh.
 * Dựa vào kết quả của các điều kiện này là `TRUE` hoặc `FALSE`. Được ví như con đường có hai hướng đi, muốn cái gì thì đi hướng này, còn không thì rẽ hướng kia.
@@ -313,7 +313,7 @@ foreach ($array_name as $key => $value) {
 
 // Example 2:
 <?php
-// Array 
+// Array.md 
 $capitals = [
 	'Japan' => 'Tokyo',
 	'France' => 'Paris',
