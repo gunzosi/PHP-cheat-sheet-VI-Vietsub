@@ -18,7 +18,7 @@
 ![PHP_MagicConstant.png](Image%2FPHP_MagicConstant.png)
 
 
-### 2. [PHP Control Structure](MarkDown%2FControlStructures.md)
+### 2. [PHP Control Structure](MarkDown/ControlStructures.md)
 ##### Các kiến thức về:
 1. Các câu lệnh _Điều kiện_ (**Condition Statement**) [`if - else - else if - switch`].
 2. Các câu lệnh _Vòng lặp_ (**Loop Statement**) [`for - while - do-while - for each - match(PHP 8.0)`].
