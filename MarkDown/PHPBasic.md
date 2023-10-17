@@ -4,7 +4,7 @@
 > GitHub: 
 
 ------------------------------------------------------
-[Return`MENU`](..%2FREADme.md)
+[Return`MENU`](../READme.md)
 ## 1. PHP là gì?
 Thuật ngữ PHP là từ viết tắt của  `Hypertext Preprocessor` .
 Nó là một ngôn ngữ kịch bản phía máy chủ hướng đối tượng, mã nguồn mở, 
