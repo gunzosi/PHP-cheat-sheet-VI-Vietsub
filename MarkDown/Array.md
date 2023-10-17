@@ -228,4 +228,31 @@ Bảng sau đây mô tả các hàm sắp xếp (sort functions) trong PHP và m
 * Các hàm `sort()`, `rsort()`, `ksort()`, và `krsort()` sắp xếp mảng trực tiếp, không tạo bản sao.
 * Các hàm `asort()` và `arsort()` tạo bản sao của mảng, sau đó sắp xếp bản sao đó.
 * Khi sử dụng `sort()` và `rsort()`, chỉ số của các phần tử sẽ bị thay đổi. Khi sử dụng các hàm còn lại, chỉ số của các phần tử vẫn được giữ nguyên.
-* 
+
+> Cú pháp của các hàm `sort()`:
+
+```php
+// sort() và rsort()
+sort(array $array, int $sort_flags = SORT_REGULAR)
+rsort(array $array, int $sort_flags = SORT_REGULAR)
+```
+
+```php
+//asort() và arsort()
+asort(array $array, int $sort_flags = SORT_REGULAR)
+arsort(array $array, int $sort_flags = SORT_REGULAR)
+```
+
+```php
+ksort(array $array, int $sort_flags = SORT_REGULAR)
+krsort(array $array, int $sort_flags = SORT_REGULAR)
+```
+
+* Trong đó các `tham số` mang nhiệm vụ như là:
+* `$array` : Mảng cần sắp xếp lại
+* `$sort_flags`: Sử dụng các hằng số để chỉ định các sắp xếp:
+  - `SORT_REGULAR`: So sánh các phần tử bình thường (mặc định).
+  - `SORT_NUMERIC`: So sánh các phần tử như số.
+  - `SORT_STRING`: So sánh các phần tử như chuỗi.
+  - `SORT_LOCALE_STRING`: So sánh các phần tử như chuỗi theo địa phương.
+  - `SORT_NATURAL`: Sắp xếp chuỗi theo kiểu tự nhiên.
