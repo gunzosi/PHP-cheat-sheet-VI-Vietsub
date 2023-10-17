@@ -29,5 +29,5 @@
 6. Câu lệnh _Gọi tệp tin_ (**File Inclusion Statement**) [`require - inclue - require_once - include_once`].
 7. Câu lệnh điều khển _Nhảy_ (**Jump Statement**) [`goto`].
 
-#### 3. [Array in PHP](MarkDown/Array.md)
+### 3. [Array in PHP](MarkDown/Array.md)
 #### Các kiến thức về: 
