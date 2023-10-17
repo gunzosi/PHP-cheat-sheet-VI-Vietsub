@@ -256,3 +256,7 @@ krsort(array $array, int $sort_flags = SORT_REGULAR)
   - `SORT_STRING`: So sánh các phần tử như chuỗi.
   - `SORT_LOCALE_STRING`: So sánh các phần tử như chuỗi theo địa phương.
   - `SORT_NATURAL`: Sắp xếp chuỗi theo kiểu tự nhiên.
+
+
+> Ví dụ về [6 func() Sort Array ](../C02_ControlStatement/SortArrayDemo.php); <br>
+> Ví dụ về [Sort Flag](../C02_ControlStatement/SortFlagDemo.php);
